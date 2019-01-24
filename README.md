@@ -4,4 +4,6 @@ This is just a dummy project with some starter files to practice git workflow us
 
 ## Introduction
 
+Just dummy text
+
 ## Deployment
